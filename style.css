@@ -86,7 +86,8 @@ header {
 
 }
 .company {
-  font: normal normal bold 14px/20px Open Sans;
+  font-size:14px;
+  font-weight: bold;
 }
 .info-name {
   display: flex;
