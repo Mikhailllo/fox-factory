@@ -81,8 +81,9 @@ header {
 }
 .name {
   margin-right: 20px;
-  font: normal normal bold 14px/20px Open Sans;
-  font-weight: lighter;
+  font-size:14px;
+  font-weight: bold;
+
 }
 .company {
   font: normal normal bold 14px/20px Open Sans;
