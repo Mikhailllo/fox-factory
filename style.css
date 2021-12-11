@@ -116,7 +116,8 @@ header {
   width: 10px;
 }
 .order-text {
-  font: normal normal bold 14px/20px Open Sans;
+  font-size: 14px;
+  font-weight: bold;
   margin-left: 40px;
 }
 
@@ -222,15 +223,15 @@ header {
 
 
 .bottom-column {
-  width:115px;
+  width: 115px;
   height: 40px;
-  font: normal normal normal  14px/20px Open Sans;
+  font-size: 14px;
   color:#ffff;
   background-color:#E10B7F;
   border-radius: 5px;
   display: flex;
   align-items: center;
-  margin-left:  19px;
+  margin-left: 19px;
   padding-left: 20px;
 
 }
