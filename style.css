@@ -116,7 +116,8 @@ header {
   width: 10px;
 }
 .order-text {
-  font: normal normal bold 14px/20px Open Sans;
+  font-size: 14px;
+  font-weight: bold;
   margin-left: 40px;
 }
 
